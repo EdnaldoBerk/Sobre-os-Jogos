@@ -222,7 +222,6 @@ a {
 }
 /* Geral */
 body {
-    background-color: #181947;
     color: white;
     font-family: Arial, sans-serif;
     margin: 0;
@@ -230,7 +229,6 @@ body {
 }
 
 header {
-    background-color: #181947;
     color: white;
     padding: 1rem 0;
     position: sticky;
