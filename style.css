@@ -228,14 +228,6 @@ body {
     padding: 0;
 }
 
-header {
-    color: white;
-    padding: 1rem 0;
-    position: sticky;
-    top: 0;
-    width: 100%;
-}
-
 .nav__container {
     display: flex;
     justify-content: space-between;
